@@ -1,0 +1,50 @@
+.frrr{
+    color: red;
+}
+div.frr{
+    
+    color: blue;
+}
+h1{
+    color: red;
+    background-color: black;
+    
+}
+h2{ color: aqua;}
+.ami{
+    color: blue;
+}
+#rony{
+    background-color: black;
+}
+#russia{
+    background-color: black;
+    color: white;
+}
+.minhaj{
+    color: darkorange;
+}
+h5{color: darkgoldenrod;}
+.hit{
+    color: black;
+    background-color: green;
+}
+.frr{
+    border: 10px solid black;
+    border-radius: 20px;
+    margin: 30px 100px;
+    padding: 10px 30px;
+    text-align: justify;
+}
+h1{ 
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 50;
+}
+small{
+    display: block;
+}
+h5{
+    display: inline
+}
